@@ -1,1 +1,25 @@
+# Ignore command notes
 commands.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Data files (optional, if you don’t want to push big files)
+*.csv
+*.xls
+*.xlsx
+*.parquet
+*.sav
+
+# Notebook runtime history
+*.nbconvert.ipynb
